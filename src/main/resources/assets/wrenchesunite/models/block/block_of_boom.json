@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "wrenchesunite:block/block_of_boom_top",
+    "side": "wrenchesunite:block/block_of_boom_side",
+    "bottom": "wrenchesunite:block/block_of_boom_bottom"
+  }
+}

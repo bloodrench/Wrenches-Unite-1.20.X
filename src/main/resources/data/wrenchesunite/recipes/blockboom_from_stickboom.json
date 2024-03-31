@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "## ",
+    "## ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "wrenchesunite:stick_of_boom"
+    }
+  },
+  "result": {
+    "item": "wrenchesunite:block_of_boom"
+  }
+}

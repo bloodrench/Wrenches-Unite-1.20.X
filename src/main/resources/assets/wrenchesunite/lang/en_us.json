@@ -1,3 +1,9 @@
 {
-  "item.wrenchesunite.dinetherate": "Dinetherate"
+  "item.wrenchesunite.blobdinetherate": "Dinetherate Amalgam",
+  "item.wrenchesunite.refineddinetherate": "Refined Dinetherate",
+  "item.wrenchesunite.stick_of_boom": "Stick O' Boom",
+
+  "block.wrenchesunite.block_of_boom": "Block O' Boom",
+
+  "creativetab.wrenchesunitematstab": "Wrenches Unite"
 }

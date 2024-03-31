@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.7,
+  "group": "dinetherate",
+  "ingredient": {
+    "item": "wrenchesunite:blobdinetherate"
+  },
+  "result": "wrenchesunite:refinedditherate"
+}

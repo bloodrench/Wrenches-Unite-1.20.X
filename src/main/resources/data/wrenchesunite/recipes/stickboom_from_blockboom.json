@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{
+    "item": "wrenchesunite:block_of_boom"
+  }],
+  "result": {
+    "item": "wrenchesunite:stick_of_boom",
+    "count": 4
+  }
+}
